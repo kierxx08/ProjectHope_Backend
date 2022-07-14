@@ -1,0 +1,8 @@
+{
+  "maintenance": false,
+  "maintenance_desc": "App is Under Maintenance",
+  "maintenance_link": "https://example.com",
+  "latest_version": "1.0",
+  "latest_description": ["Initial Release", "Trial Version"],
+  "app_link": "http://192.168.254.2/tanauan/app/apk/CLHear TApp (v.1.0).apk"
+}
